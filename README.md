@@ -11,7 +11,7 @@
 
 ## 🎓 About Me
 
-I'm a passionate **student developer** with a strong focus on **Artificial Intelligence**, **Full-Stack Development**, and building innovative solutions that solve real-world problems. I love exploring cutting-edge AI technologies, designing scalable applications, and contributing to the open-source community.
+I'm a passionate **student developer** with a strong focus on **Artificial Intelligence**, **Full-Stack Development**, and building innovative solutions that solve real-world problems. I love exploring cutting-edge technologies and creating applications that make a tangible impact.
 
 - 🧠 Passionate about **AI/ML** and **Data Science**
 - 💻 Full-stack developer building end-to-end applications
@@ -28,6 +28,7 @@ I'm a passionate **student developer** with a strong focus on **Artificial Intel
 - **🎯 Problem Solving** - Creating practical, scalable solutions for real-world challenges
 - **⚡ Cloud & DevOps** - Deployment, containerization, and infrastructure optimization
 - **🌟 Open Source** - Contributing to and building useful developer tools
+- **📹 Real-time Communication** - Video conferencing and interactive applications
 
 ---
 
@@ -48,6 +49,7 @@ I'm a passionate **student developer** with a strong focus on **Artificial Intel
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Motion](https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas%20API-FF8C00?style=for-the-badge)
 
 ### 🔧 Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -73,6 +75,10 @@ I'm a passionate **student developer** with a strong focus on **Artificial Intel
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
+### 📹 Real-time Communication
+![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=for-the-badge)
+<img src="https://img.shields.io/badge/Peer_Connection-0099FF?style=for-the-badge" />
+
 ### 🛠️ Tools & Utilities
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -85,7 +91,6 @@ I'm a passionate **student developer** with a strong focus on **Artificial Intel
 
 ### ☁️ Cloud & APIs
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge)
-![Canvas API](https://img.shields.io/badge/Canvas%20API-FF8C00?style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
 ---
@@ -106,6 +111,34 @@ I'm a passionate **student developer** with a strong focus on **Artificial Intel
 
 ## ⭐ Featured Projects
 
+### 🎬 [Confero - Video Conferencing App](https://github.com/Soumika649/Confero-Video-Conferencing-App)
+A modern, real-time video conferencing application built with cutting-edge web technologies. Enabling seamless communication and collaboration.
+
+**Features:**
+- 📹 Real-time video and audio streaming
+- 🎤 Screen sharing capabilities
+- 👥 Multi-user support
+- 💬 Live chat integration
+- 🎨 Modern responsive UI
+
+**Tech Stack:** TypeScript, Node.js, WebRTC, Peer.js, React
+
+---
+
+### 🤖 [AI Kids Learning Assistant](https://github.com/Soumika649/ai-kids-learning-assistant)
+An intelligent AI-powered educational platform designed to make learning interactive and engaging for children with adaptive learning paths.
+
+**Features:**
+- 🤖 AI-driven personalized learning
+- 🎮 Interactive learning modules
+- 📊 Progress tracking and analytics
+- 🎨 Child-friendly interface
+- 📱 Responsive design
+
+**Tech Stack:** JavaScript, React, Node.js, AI/ML Integration
+
+---
+
 ### 🤖 [Blog Agent](https://github.com/Soumika649/ai-blog-agent)
 An intelligent AI-powered blog content generation and management system leveraging natural language processing to create, optimize, and manage blog posts automatically.
 
@@ -115,7 +148,7 @@ An intelligent AI-powered blog content generation and management system leveragi
 - 📊 Content analytics and insights
 - 🤖 Intelligent content management
 
-**Tech Stack:** Python, NLP, OpenAI API, FastAPI
+**Tech Stack:** Python, NLP, OpenAI API, FastAPI, HuggingFace
 
 ---
 
@@ -188,11 +221,13 @@ A feature-rich calculator application demonstrating strong fundamentals in objec
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Other Notable Projects
 
 - **node-k8s-app**: Kubernetes-ready Node.js application showcasing containerization and orchestration
 - **Nike Website**: Responsive e-commerce website with modern UI/UX
 - **My Node App**: Node.js application demonstrating backend development best practices
+- **Git Lab**: Git version control practice and learning
+- **My Website**: Personal portfolio and web showcase
 
 ---
 
@@ -204,6 +239,7 @@ A feature-rich calculator application demonstrating strong fundamentals in objec
 - 🚀 **Full-Stack AI Applications** - Building production-ready AI systems
 - 📊 **Advanced Data Science** - Deep learning and computer vision
 - 🔐 **Security & Scalability** - Building secure and scalable applications
+- 📹 **WebRTC & Real-time Communication** - Advanced peer-to-peer technologies
 
 ---
 
@@ -214,6 +250,7 @@ A feature-rich calculator application demonstrating strong fundamentals in objec
 - ✅ Master full-stack development with cloud-native technologies
 - ✅ Share knowledge and mentor aspiring developers and AI enthusiasts
 - ✅ Create tools that make development easier and faster for everyone
+- ✅ Build scalable real-time communication platforms
 
 ---
 
@@ -225,6 +262,7 @@ I'm always interested in collaborating on exciting projects, discussing AI and d
 
 [**GitHub**](https://github.com/Soumika649) • 
 [**Email**](mailto:your-email@example.com) • 
+
 </div>
 
 ---
@@ -236,6 +274,7 @@ I'm always interested in collaborating on exciting projects, discussing AI and d
 - 📖 Strong believer in learning by building real-world projects
 - ✨ Problem-solver at heart with a passion for clean, efficient code
 - 🌱 Committed to continuous learning and staying updated with tech trends
+- 📹 Exploring the possibilities of real-time communication technologies
 
 ---
 
@@ -248,6 +287,7 @@ I'm always open to:
 - 🎓 **Learning Partnerships** and mentorship opportunities
 - 🔬 **Research & Experimental Projects** pushing the boundaries of AI
 - 📚 **Community Contributions** to open-source projects
+- 📹 **Real-time Communication** and interactive application development
 
 ---
 
