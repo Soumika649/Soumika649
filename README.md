@@ -14,6 +14,21 @@ I'm a driven student developer with a strong passion for **Artificial Intelligen
 - **Open Source** - Contributing to and building useful tools
 
 ## 🛠️ Tech Stack
+<p>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code" />
+</p>
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
