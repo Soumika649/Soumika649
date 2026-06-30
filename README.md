@@ -3,7 +3,7 @@
 
 ### AI/ML Engineer • Full‑Stack Developer • Real‑time Systems
 
-I build production-ready AI and full‑stack applications that go from data and models to robust APIs, polished UIs, and real-time experiences. With expertise in machine learning, LLM orchestration[...]
+I build production-ready AI and full‑stack applications that go from data and models to robust APIs, polished UIs, and real-time experiences. With expertise in machine learning, LLM orchestration, a[...]
 
 **Areas:** Machine Learning · LLMs & NLP · Full‑Stack · Real‑time Systems · MLOps
 
@@ -99,10 +99,22 @@ I build production-ready AI and full‑stack applications that go from data and 
 
 I actively contribute to and maintain open-source software, with a focus on AI/ML, developer tooling, and real‑time systems. Selected highlights:
 
-- **Maintainer & Primary Contributor — Thumblify:** Core maintainer of the Thumblify repo, responsible for feature development, issue triage, and merging community PRs. ([https://github.com/Soumika649/Thumblify](https://github.com/Soumika649/Thumblify))
-- **Maintainer & Primary Contributor — ai-blog-agent:** Maintainer work on orchestration, API endpoints, and documentation. ([https://github.com/Soumika649/ai-blog-agent](https://github.com/Soumika649/ai-blog-agent))
-- **Maintainer & Primary Contributor — MoneyMinder:** Ongoing maintenance for the end‑to‑end finance dashboard and integrations. ([https://github.com/Soumika649/MoneyMinder](https://github.com/Soumika649/MoneyMinder))
+- **Maintainer & Primary Contributor — Thumblify:** Core maintainer of the Thumblify repo, responsible for feature development, issue triage, and merging community PRs. ([https://github.com/Soumika649/Thumblify](https://github.com/Soumika649/Thumblify))  
+  [![Contributors](https://img.shields.io/github/contributors/Soumika649/Thumblify?style=flat-square)](https://github.com/Soumika649/Thumblify/graphs/contributors) [Contributing guide](https://github.com/Soumika649/Thumblify/blob/main/CONTRIBUTING.md)
+
+- **Maintainer & Primary Contributor — ai-blog-agent:** Maintainer work on orchestration, API endpoints, and documentation. ([https://github.com/Soumika649/ai-blog-agent](https://github.com/Soumika649/ai-blog-agent))  
+  [![Contributors](https://img.shields.io/github/contributors/Soumika649/ai-blog-agent?style=flat-square)](https://github.com/Soumika649/ai-blog-agent/graphs/contributors) [Contributing guide](https://github.com/Soumika649/ai-blog-agent/blob/main/CONTRIBUTING.md)
+
+- **Maintainer & Primary Contributor — MoneyMinder:** Ongoing maintenance for the end‑to‑end finance dashboard and integrations. ([https://github.com/Soumika649/MoneyMinder](https://github.com/Soumika649/MoneyMinder))  
+  [![Contributors](https://img.shields.io/github/contributors/Soumika649/MoneyMinder?style=flat-square)](https://github.com/Soumika649/MoneyMinder/graphs/contributors) [Contributing guide](https://github.com/Soumika649/MoneyMinder/blob/main/CONTRIBUTING.md)
+
 - **Community Contributor:** Contributed bug fixes, documentation improvements, and small feature patches to various open-source projects in the ML and WebRTC ecosystems. See my GitHub profile for a full list of PRs and contributions: [https://github.com/Soumika649](https://github.com/Soumika649)
+
+Notable contributions & releases:
+
+- **Thumblify:** Ongoing feature development (thumbnail templates, in‑browser editing, export pipelines) and maintenance. Releases and changelogs are available on the repo’s Releases page. ([Releases](https://github.com/Soumika649/Thumblify/releases))
+- **ai-blog-agent:** Led work on agent orchestration and REST endpoints; see the repo for release notes and changelogs. ([Releases](https://github.com/Soumika649/ai-blog-agent/releases))
+- **MoneyMinder:** Maintenance and integrations (Finnhub, deployment scripts); see Releases for tagged changes. ([Releases](https://github.com/Soumika649/MoneyMinder/releases))
 
 How to contribute:
 
@@ -110,7 +122,9 @@ How to contribute:
 2. Fork the repository, create a feature branch, make changes, and add tests where applicable.
 3. Submit a pull request with a clear description and link to any related issues.
 
-Contributors are welcome — check each project’s README for contribution guidelines and code of conduct.
+Contributors are welcome — check each project’s README (or CONTRIBUTING.md where present) for contribution guidelines and code of conduct. If a CONTRIBUTING.md link above returns a 404, follow the project README for contribution instructions.
+
+If you’d like, I can also fetch and add a short list of the most notable merged PRs and release notes for each project — tell me whether you prefer a short summary (1–3 items per repo) or a detailed list.
 
 ---
 
