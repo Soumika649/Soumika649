@@ -3,7 +3,7 @@
 
 ### AI/ML Engineer • Full‑Stack Developer • Real‑time Systems
 
-I build production-ready AI and full‑stack applications that go from data and models to robust APIs, polished UIs, and real-time experiences. With expertise in machine learning, LLM orchestration, and end-to-end system design, I focus on pragmatic engineering, reproducible experiments, and scalable solutions that deliver measurable impact.
+I build production-ready AI and full‑stack applications that go from data and models to robust APIs, polished UIs, and real-time experiences. With expertise in machine learning, LLM orchestration[...]
 
 **Areas:** Machine Learning · LLMs & NLP · Full‑Stack · Real‑time Systems · MLOps
 
@@ -92,6 +92,25 @@ I build production-ready AI and full‑stack applications that go from data and 
 - **What it is:** Mobile TODO application built with React Native.
 - **Tech / Languages:** React Native, JavaScript / TypeScript
 - **Highlights:** Mobile UX, offline support patterns, good example of mobile app scaffolding and runtime behaviors.
+
+---
+
+## ❤️ Open Source Contributions
+
+I actively contribute to and maintain open-source software, with a focus on AI/ML, developer tooling, and real‑time systems. Selected highlights:
+
+- **Maintainer & Primary Contributor — Thumblify:** Core maintainer of the Thumblify repo, responsible for feature development, issue triage, and merging community PRs. ([https://github.com/Soumika649/Thumblify](https://github.com/Soumika649/Thumblify))
+- **Maintainer & Primary Contributor — ai-blog-agent:** Maintainer work on orchestration, API endpoints, and documentation. ([https://github.com/Soumika649/ai-blog-agent](https://github.com/Soumika649/ai-blog-agent))
+- **Maintainer & Primary Contributor — MoneyMinder:** Ongoing maintenance for the end‑to‑end finance dashboard and integrations. ([https://github.com/Soumika649/MoneyMinder](https://github.com/Soumika649/MoneyMinder))
+- **Community Contributor:** Contributed bug fixes, documentation improvements, and small feature patches to various open-source projects in the ML and WebRTC ecosystems. See my GitHub profile for a full list of PRs and contributions: [https://github.com/Soumika649](https://github.com/Soumika649)
+
+How to contribute:
+
+1. Open an issue to discuss larger changes or propose features.
+2. Fork the repository, create a feature branch, make changes, and add tests where applicable.
+3. Submit a pull request with a clear description and link to any related issues.
+
+Contributors are welcome — check each project’s README for contribution guidelines and code of conduct.
 
 ---
 
