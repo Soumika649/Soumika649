@@ -1,24 +1,15 @@
 <!-- START TOP -->
 # Soumika Myaka — AI/ML & Full‑Stack Developer
 
-[![avatar](https://github.com/Soumika649.png)](https://github.com/Soumika649)
-
 ### AI/ML Engineer • Full‑Stack Developer • Real‑time Systems
 
 I build production-ready AI and full‑stack applications that go from data and models to robust APIs, polished UIs, and realtime experiences. I focus on pragmatic engineering, reproducible experiments, and clean integrations so products are useful and maintainable.
 
 **Areas:** Machine Learning · LLMs & NLP · Full‑Stack · Real‑time Systems · MLOps
 
-[![Followers](https://img.shields.io/github/followers/Soumika649?label=Followers&style=flat)](https://github.com/Soumika649)  
-[![Stars](https://img.shields.io/github/stars/Soumika649?style=flat)](https://github.com/Soumika649)  
-[![Repo size](https://img.shields.io/github/repo-size/Soumika649/Soumika649?style=flat)](https://github.com/Soumika649/Soumika649)  
-[![Last commit](https://img.shields.io/github/last-commit/Soumika649/Soumika649?style=flat)](https://github.com/Soumika649/Soumika649)
-
----
-
 <!-- END TOP -->
 
-Portfolio — Highlighted projects (selected to make this profile unique)
+Portfolio — Highlighted projects 
 Below I surface two ML projects, two AI projects, two full‑stack projects, and two apps — each entry lists languages, key libraries/APIs, and standout features so reviewers can scan quickly.
 
 ML Projects (Research & Predictive Models)
@@ -88,7 +79,7 @@ Apps (Mobile & Creator Tools)
 - Tech / Languages: React Native, JavaScript / TypeScript (repo uses React Native tooling)
 - Highlights: Mobile UX, offline support patterns (where implemented), good example of mobile app scaffolding and runtime behaviours.
 
-Selected tech summary
+Tech summary
 - Languages: Python, JavaScript/TypeScript, Java
 - Frontend: React, React Native, Tailwind (where used), Vite
 - Backend: Node.js, Express, FastAPI
@@ -102,10 +93,12 @@ Contact
 
 GitHub highlights
 
-Notes on sources (what I used to build these highlights)
+Notes on sources 
 - Confero README: confirms React Native / Expo / Jitsi Meet + Claude API for MoM.
 - ai-blog-agent README: confirms CrewAI orchestration, FastAPI backend and Llama 3.1 via Hugging Face.
 - Thumblify README: confirms TypeScript/React frontend and Hugging Face Inference API usage.
 - MoneyMinder README: confirms React (Vite) frontend, Node.js + Express backend, MongoDB Atlas and Finnhub API for market data.
 - TodoApp README: project scaffold indicates React Native mobile app.
 - fleet-tracker repository: contains ai/, server/, socket/, database/ — observed as a real‑time Node.js based architecture.
+
+[![Followers](https://img.shields.io/github/followers/Soumika649?label=Followers&style=flat)](https://github.com/Soumika649)  [![Stars](https://img.shields.io/github/stars/Soumika649?style=flat)](https://github.com/Soumika649)  [![Repo size](https://img.shields.io/github/repo-size/Soumika649/Soumika649?style=flat)](https://github.com/Soumika649/Soumika649)  [![Last commit](https://img.shields.io/github/last-commit/Soumika649/Soumika649?style=flat)](https://github.com/Soumika649/Soumika649)
