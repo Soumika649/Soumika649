@@ -1,7 +1,7 @@
 <!-- START TOP -->
 # Soumika Myaka — AI/ML & Full‑Stack Developer
 
-### AI/ML Engineer • Full‑Stack Developer • Real‑time Systems
+### Aspiring AI/ML Engineer • Full‑Stack Developer • Real‑time Systems
 
 I build production-ready AI and full‑stack applications that go from data and models to robust APIs, polished UIs, and real-time experiences. With expertise in machine learning, LLM orchestration[...]
 
