@@ -106,7 +106,6 @@ I regularly contribute to community projects I’ve forked. Below are few merged
 - [PrepIQ — add confidence trend analytics to progress page](https://github.com/Aashikhandelwal05/PrepIQ/pull/121) — Added confidence-over-time chart, average confidence summary, improved tooltips and empty-state handling. (merged)
 - [PrepIQ — Fix multi-word skill extraction in ml.py](https://github.com/Aashikhandelwal05/PrepIQ/pull/49) — Improved regex handling and normalization for multi-word skill detection; added tests. (merged)
 - [iloveAgents — Add Patient Pre-Consultation Note Agent](https://github.com/AditthyaSS/iloveAgents/pull/245) — Implemented a non-diagnostic healthcare agent that summarizes symptoms into structured pre-consultation notes. (merged)
-- [N-Backend — Implement pharmacist and delivery workflow with Redis and Bull queues](https://github.com/NirveonX-Dev/N-Backend/pull/2) — Added pharmacist/delivery routes, Redis locks, and retry queues for reliable order claiming. (merged)
 - [CareerLyze — add AI-powered career roadmap generator with fallback support](https://github.com/ahana4banerjee/CareerLyze/pull/39) — Added Gemini-powered roadmap generator with fallback handling and UI. (merged)
 
 
