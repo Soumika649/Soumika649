@@ -11,7 +11,7 @@ I build production-ready AI and full‑stack applications that go from data and 
 
 ---
 
-## 🛠 Tech Stack at a Glance
+## 🛠 Tech Stack 
 
 | Category | Skills |
 |----------|--------|
@@ -25,8 +25,6 @@ I build production-ready AI and full‑stack applications that go from data and 
 ---
 
 ## 📋 Portfolio — Highlighted Projects
-
-Below I surface two ML projects, two AI projects, two full‑stack projects, and two apps — each entry lists languages, key libraries/APIs, and standout features so reviewers can scan quickly.
 
 ### ML Projects (Research & Predictive Models)
 
@@ -109,11 +107,10 @@ Below I surface two ML projects, two AI projects, two full‑stack projects, and
 
 - **GitHub:** [https://github.com/Soumika649](https://github.com/Soumika649)
 - **Email:** [soumikamyaka@gmail.com](mailto:soumikamyaka@gmail.com)
-- **LinkedIn:** [Add your LinkedIn if available]
 
 ---
 
-## 📝 Notes on Sources
+## 📝  Sources
 
 - **Confero README:** React Native / Expo / Jitsi Meet + Claude API for MoM
 - **ai-blog-agent README:** CrewAI orchestration, FastAPI backend and Llama 3.1 via Hugging Face
