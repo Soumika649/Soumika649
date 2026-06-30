@@ -1,26 +1,22 @@
+<!-- START TOP -->
 # Soumika Myaka — AI/ML & Full‑Stack Developer
 
-<div align="center">
-  <h3>AI/ML Engineer • Full‑Stack Developer • Real‑time Systems</h3>
+[![avatar](https://github.com/Soumika649.png)](https://github.com/Soumika649)
 
-  [![GitHub followers](https://img.shields.io/github/followers/Soumika649?style=social)](https://github.com/Soumika649)
-  [![GitHub Stars](https://img.shields.io/github/stars/Soumika649?style=social)](https://github.com/Soumika649)
-</div>
+### AI/ML Engineer • Full‑Stack Developer • Real‑time Systems
 
----
+I build production-ready AI and full‑stack applications that go from data and models to robust APIs, polished UIs, and realtime experiences. I focus on pragmatic engineering, reproducible experiments, and clean integrations so products are useful and maintainable.
 
-About
-- I’m Soumika Myaka — I build practical AI/ML systems and production-ready full‑stack applications with an emphasis on real‑time interactions, clean engineering, and measurable product impact.
-- Location: India • Open to remote opportunities
+**Areas:** Machine Learning · LLMs & NLP · Full‑Stack · Real‑time Systems · MLOps
 
-Core strengths
-- Machine learning: data preprocessing, model selection, evaluation, interpretability
-- LLMs & NLP: prompt engineering, multi‑agent workflows, LLM orchestration
-- Full‑stack engineering: React, TypeScript, Node.js, REST APIs, cloud deployments
-- Real‑time systems: WebRTC, WebSockets, media streaming
-- MLOps & deployment: containerization, CI/CD, cloud infra
+[![Followers](https://img.shields.io/github/followers/Soumika649?label=Followers&style=flat)](https://github.com/Soumika649)  
+[![Stars](https://img.shields.io/github/stars/Soumika649?style=flat)](https://github.com/Soumika649)  
+[![Repo size](https://img.shields.io/github/repo-size/Soumika649/Soumika649?style=flat)](https://github.com/Soumika649/Soumika649)  
+[![Last commit](https://img.shields.io/github/last-commit/Soumika649/Soumika649?style=flat)](https://github.com/Soumika649/Soumika649)
 
 ---
+
+<!-- END TOP -->
 
 Portfolio — Highlighted projects (selected to make this profile unique)
 Below I surface two ML projects, two AI projects, two full‑stack projects, and two apps — each entry lists languages, key libraries/APIs, and standout features so reviewers can scan quickly.
@@ -58,7 +54,7 @@ AI Projects (Intelligent Systems & LLMs)
 - Key capabilities: Real‑time location updates, socket‑based streaming, database integration for tracking and analytics.
 - Why it stands out: Combines real‑time telematics with AI/analytics modules to support fleet monitoring and route insights.
 
-Full‑Stack Projects (End���to‑End Systems)
+Full‑Stack Projects (End‑to‑End Systems)
 
 1) MoneyMinder — Personal Finance Manager
 - Repo: https://github.com/Soumika649/MoneyMinder
@@ -105,9 +101,6 @@ Contact
 - Email: your-email@example.com
 
 GitHub highlights
-<div align="center">
-  ![Soumika649's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumika649&show_icons=true&theme=radical&hide=contribs&count_private=true)
-</div>
 
 Notes on sources (what I used to build these highlights)
 - Confero README: confirms React Native / Expo / Jitsi Meet + Claude API for MoM.
