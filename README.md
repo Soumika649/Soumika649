@@ -3,7 +3,7 @@
 
 ### AI/ML Engineer • Full‑Stack Developer • Real‑time Systems
 
-I build production-ready AI and full‑stack applications that go from data and models to robust APIs, polished UIs, and real-time experiences. With expertise in machine learning, LLM orchestration, a[...]
+I build production-ready AI and full‑stack applications that go from data and models to robust APIs, polished UIs, and real-time experiences. With expertise in machine learning, LLM orchestration[...]
 
 **Areas:** Machine Learning · LLMs & NLP · Full‑Stack · Real‑time Systems · MLOps
 
@@ -115,6 +115,20 @@ Notable contributions & releases:
 - **Thumblify:** Ongoing feature development (thumbnail templates, in‑browser editing, export pipelines) and maintenance. Releases and changelogs are available on the repo’s Releases page. ([Releases](https://github.com/Soumika649/Thumblify/releases))
 - **ai-blog-agent:** Led work on agent orchestration and REST endpoints; see the repo for release notes and changelogs. ([Releases](https://github.com/Soumika649/ai-blog-agent/releases))
 - **MoneyMinder:** Maintenance and integrations (Finnhub, deployment scripts); see Releases for tagged changes. ([Releases](https://github.com/Soumika649/MoneyMinder/releases))
+
+### Selected external contributions (projects I forked)
+
+I regularly contribute to community projects I’ve forked. Below are selected merged pull requests I opened to other repositories (not my own):
+
+- [PrepIQ — add confidence trend analytics to progress page](https://github.com/Aashikhandelwal05/PrepIQ/pull/121) — Added confidence-over-time chart, average confidence summary, improved tooltips and empty-state handling. (merged)
+- [PrepIQ — Fix multi-word skill extraction in ml.py](https://github.com/Aashikhandelwal05/PrepIQ/pull/49) — Improved regex handling and normalization for multi-word skill detection; added tests. (merged)
+- [iloveAgents — Add Patient Pre-Consultation Note Agent](https://github.com/AditthyaSS/iloveAgents/pull/245) — Implemented a non-diagnostic healthcare agent that summarizes symptoms into structured pre-consultation notes. (merged)
+- [N-Backend — Implement pharmacist and delivery workflow with Redis and Bull queues](https://github.com/NirveonX-Dev/N-Backend/pull/2) — Added pharmacist/delivery routes, Redis locks, and retry queues for reliable order claiming. (merged)
+- [CareerLyze — add AI-powered career roadmap generator with fallback support](https://github.com/ahana4banerjee/CareerLyze/pull/39) — Added Gemini-powered roadmap generator with fallback handling and UI. (merged)
+- [connektsphere — Integrate CareerMatch API and Add Jobs Section](https://github.com/connektsphere/connektsphere/pull/162) — Integrated CareerMatch API and added the Jobs section. (merged)
+- [connektsphere — Improve SEO structure and tags across key pages](https://github.com/connektsphere/connektsphere/pull/148) — SEO improvements including meta tags and structure. (merged)
+- [connektsphere — Implement SEO for landing page](https://github.com/connektsphere/connektsphere/pull/144) — Added title, meta description, HelmetProvider, robots.txt and sitemap.xml. (merged)
+- [connektsphere — Add frontend and backend implementation for Work With Us page](https://github.com/connektsphere/connektsphere/pull/128) — Implemented the Work With Us page and backend form handling. (merged)
 
 How to contribute:
 
